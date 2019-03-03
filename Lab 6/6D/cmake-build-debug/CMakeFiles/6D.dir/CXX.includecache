@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Algos/Lab 6/6D/main.cpp
+iostream
+-
+queue
+-
+map
+-
+algorithm
+-
+vector
+-
+fstream
+-
+utility
+-
+list
+-
+

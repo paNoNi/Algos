@@ -1,0 +1,5 @@
+insert 1
+insert 0
+insert 2
+delete 1
+exists 1

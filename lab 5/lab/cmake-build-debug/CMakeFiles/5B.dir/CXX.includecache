@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Algos/lab 5/5B/main.cpp
+fstream
+-
+string
+-
+cmath
+-
+vector
+-
+ctime
+-
+iostream
+-
+synchapi.h
+-
+stdlib.h
+-
+cstdlib
+-
+

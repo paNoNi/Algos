@@ -1,0 +1,3 @@
+D:/University/Algos/lab1(sem 2)/1E/cmake-build-debug/CMakeFiles/1E.dir
+D:/University/Algos/lab1(sem 2)/1E/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/Algos/lab1(sem 2)/1E/cmake-build-debug/CMakeFiles/rebuild_cache.dir
