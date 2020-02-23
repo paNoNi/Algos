@@ -1,3 +1,0 @@
-D:/University/Algos/Testing/cmake-build-debug/CMakeFiles/Testing.dir
-D:/University/Algos/Testing/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/University/Algos/Testing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,31 @@
+"D:\Program\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe" -DCMAKE_C_COMPILER=D:/Program/mingw-w64/mingw32/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/Program/mingw-w64/mingw32/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" "D:\University\Algos\lab4(sem 2)\4C"
+-- The C compiler identification is unknown
+-- The CXX compiler identification is unknown
+-- Check for working C compiler: D:/Program/mingw-w64/mingw32/bin/gcc.exe
+CMake Error: Generator: execution of make failed. Make command was: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe/mingw32-make.exe cmTC_a3968/fast && 
+-- Check for working C compiler: D:/Program/mingw-w64/mingw32/bin/gcc.exe -- broken
+CMake Error at D:/Program/CLion 2019.2.5/bin/cmake/win/share/cmake-3.15/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "D:/Program/mingw-w64/mingw32/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: D:/University/Algos/lab4(sem 2)/4C/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe/mingw32-make.exe cmTC_a3968/fast && РќРµ СѓРґР°РµС‚СЃСЏ РЅР°Р№С‚Рё СѓРєР°Р·Р°РЅРЅС‹Р№ С„Р°Р№Р»
+    Generator: execution of make failed. Make command was: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe/mingw32-make.exe cmTC_a3968/fast && 
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/University/Algos/lab4(sem 2)/4C/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "D:/University/Algos/lab4(sem 2)/4C/cmake-build-debug/CMakeFiles/CMakeError.log".
